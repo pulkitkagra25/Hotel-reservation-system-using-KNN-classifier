@@ -44,25 +44,7 @@ The dataset includes features like:
 
 ---
 
-## ⚙️ Installation & Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Install required libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
@@ -71,7 +53,7 @@ The dataset includes features like:
 Run the main file:
 
 ```bash
-python main.py
+python hotel_reservation.ipynb
 ```
 
 The program will:
@@ -85,7 +67,7 @@ The program will:
 
 ## 📊 Results
 
-* Model Accuracy: XX%
+* Model Accuracy: 84.93%
 * Evaluation:
 
   * Confusion Matrix
