@@ -43,7 +43,19 @@ The dataset includes features like:
 * Booking status
 
 ---
+⚙️ Installation & Setup
 
+Clone the repository:
+
+git clone https://pulkitkagra25/Hotel-reservation-system-using-KNN-classifier.git
+
+Navigate to the project directory:
+
+cd Hotel-reservation-system-using-KNN-classifier
+
+Install required libraries:
+
+pip install -r requirements.txt
 
 
 ---
